@@ -1,0 +1,25 @@
+{
+  "Type":"Observer",
+  "Exp name" : "Mathieu Test",
+  "ParticipantFolder": "C:\\Users\\tsico\\Desktop\\UQAM\\Lab Developpement\\Tomy\\",
+  "ConditionParticipantFile": "C:\\Users\\tsico\\Desktop\\UQAM\\Lab Developpement\\Fichier Tomy - Conditions Participants.csv",
+  "ConditionTargetFile": "C:\\Users\\tsico\\Desktop\\UQAM\\Lab Developpement\\Fichier Tomy - Conditions_Target.csv",
+  "TimeColIndex" : 8,
+  "BehaviorColIndex" : 12,
+  "StateColIndex":13,
+  "BehavioralTrialIndicator":"Start",
+  "BehavioralRightIndicator":"Right look",
+  "BehavioralLeftIndicator":"Left look",
+  "Delimiter" : "\t",
+  "pre_twindow_beg" : 1000.0,
+  "pre_twindow_end" : 7000.0,
+  "post_twindow_beg" : 7001.0,
+  "post_twindow_end" : 9500.0,
+  "TrialDuration" : 10000,
+  "TrialType" : ["Paire 1", "Paire 2"],
+  "Frequence" : 1.0,
+  "Graph Colors": ["Blue", "Orange", "Green", "Yellow"],
+  "Bar Graph" : [ "--" , "-." , ":"]
+}
+
+

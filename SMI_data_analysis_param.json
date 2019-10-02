@@ -1,0 +1,22 @@
+{
+  "Type":"Eye Tracker",
+  "Exp name" : "Emeryse Preliminary result",
+  "ParticipantFolder": "C:\\Users\\tsico\\Downloads\\Timecourse_Tomy\\Timecourse_Tomy",
+  "EventCol" : "L Event Info",
+  "TimeCol" : "Time",
+  "Delimiter" : "\t",
+  "pre_twindow_beg" : 0.0,
+  "pre_twindow_end" : 3500.0,
+  "post_twindow_beg" : 4800.0,
+  "post_twindow_end" : 7000.0,
+  "TrialDuration" : 10000,
+  "Condition1 Hit" : "cible",
+  "Condition1 Miss" : "dist",
+  "Condition2" : ["se", "le"],
+  "AOI": "R AOI Hit",
+  "Frequence" : 16.666,
+  "Graph Colors": ["Blue", "Orange", "Green", "Yellow"],
+  "Bar Graph" : [ "--" , "-." , ":"]
+}
+
+
